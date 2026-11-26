@@ -1,4 +1,4 @@
-cars = ['Ford', 'BMW', 'Volvo']
-
-cars.sort()
-print(cars)
+x = 0
+while True:
+    print(x)
+    x+=1
